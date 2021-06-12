@@ -30,7 +30,7 @@ public class ApplicationService {
 			
 	}
 	catch (Exception e) {
-		
+		System.out.println(" Loan cannot be sanctioned");
 	}
     
 	}    
